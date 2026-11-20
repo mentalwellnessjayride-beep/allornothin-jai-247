@@ -1,0 +1,19 @@
+To: support@ionos.com
+Subject: Update External DNS for allornothin.org + all-ornothin.com - Please apply
+
+Hello IONOS Support,
+
+Please update DNS for my 2 domains to point to Netlify. I cannot log into dashboard.
+
+Domain 1: allornothin.org (Expiry 2027-05-20 - NOT expired)
+- DELETE: 198.49.23.144, 198.49.23.145, 198.185.159.144, 198.185.159.145
+- ADD A @ -> 75.2.60.5
+- ADD CNAME www -> allornothin.netlify.app
+
+Domain 2: all-ornothin.com (Expiry 2027-08-04 - NOT expired)
+- DELETE: 217.160.0.47
+- ADD A @ -> 75.2.60.5
+- ADD CNAME www -> allornothin.netlify.app
+
+Please confirm when done. Reply to hello@all-nothin.com
+Thank you, Jeremy Muller, All Or Nothin LLC
