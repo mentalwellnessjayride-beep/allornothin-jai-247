@@ -1,0 +1,32 @@
+AON MASTER SYSTEM LIBRARY v2026 - UPDATED
+Organization: All Or Nothin LLC (AON) - Founder: Jeremy
+Mission: Sovereign, scalable, autonomous AI infrastructure.
+
+VALUATION: $40M-$50M INTERNAL ONLY - Do NOT send to clinics, 988 orgs, pilots.
+Old IP-only floor $14.5M-$23M superseded. Full ecosystem = 40+ licensing vectors.
+
+COMPONENTS:
+1. AON CORE - Sovereign governance, orchestration
+2. AON CITY - Community commerce, economic participation
+3. SPARK ENGINE - Autonomous innovation, opportunity discovery
+4. INFINITY SPARK CATALOG - Ideas, templates, agents, IP, monetizable products
+5. SPONSOR-A-SPARK - Sponsor funding, grant-style, revenue participation
+6. MMJ PLATFORM - Independent deployment, separate branding
+7. AON ACADEMY - Education, AI learning, certification
+8. AON DASHBOARD - Executive control, revenue, analytics
+9. AON CONSOLE - Admin, agent controls, workflow, infra
+10. GHOST PROTOCOL - Autonomous execution, background orchestration, multi-agent
+
+ARCHITECTURE: SAPPHIRE AON - Sovereign, Stateless, Storage-less, Pure Compute
+- AON Sovereign Core: Executes, Routes, Forgets
+- Ghost Protocol: Central Router, Stateless, No Persistence
+- Spark Engine: AI Execution, Ephemeral Context
+- Edge: Cloudflare Workers + Tunnel, No Storage, No Logs
+- Services: Node.js PM2 - city.js, academy.js, telemetry.js, console.js - All Stateless
+- External Customer-Owned: Stripe/Lemon Squeezy, Supabase, Vercel, SaaS, Customer Systems own all data
+- Doctrine: No Databases, No File Storage, No Subscription Data, No Logs Retention
+
+REVENUE: Enterprise Licensing, Memberships, Marketplace Fees, AI Services, Education, SaaS, Custom Deployments, Sponsorships
+RULES: System-wide thinking, Automation first, Scalable frameworks, Sovereign ownership, Reusable assets, Ecosystem value, Revenue when appropriate, Enterprise-grade, Design for licensing
+GHOST: No calls, no voice, no meetings, no manual sends, no fake patient data/DOB, Sender hello@all-nothin.com, Link https://allornothin.netlify.app until Org 200, Never SENT if not sent, Never PAID if $0
+STATUS: Netlify 200 LIVE, Org 301/404 Squarespace Expired PARKED, Commercial 301 IONOS Parking, DKIM NXDOMAIN, 2/11 SENT VERIFIED 18:14 MDH + 18:15 Youth Frontiers, Capital $0, Next 1x YES -> Invoice AON-988-001 $500
