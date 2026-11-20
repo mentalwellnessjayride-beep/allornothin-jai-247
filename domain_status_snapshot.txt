@@ -1,13 +1,13 @@
-=== DOMAIN STATUS SNAPSHOT (2026-11-20T05:58:31Z) ===
-all-ornothin.com -> HTTP 301ERR
-allornothin.org -> HTTP 301ERR
-allornothin.tech -> HTTP 000ERR
-allornothin.cloud -> HTTP 000ERR
-allornothin.ai -> HTTP 000ERR
-all-ornothin.store -> HTTP 301ERR
-all-ornothin.info -> HTTP 000ERR
-jay-ride.online -> HTTP 000ERR
-heavenlysparkmap.cloud -> HTTP 000ERR
-ghost-protocol.online -> HTTP 000ERR
+=== DOMAIN STATUS SNAPSHOT FIXED (2026-11-20T06:02:16Z) ===
+all-ornothin.com -> HTTP 301
+allornothin.org -> HTTP 301
+allornothin.tech -> HTTP 000
+allornothin.cloud -> HTTP 000
+allornothin.ai -> HTTP 000
+all-ornothin.store -> HTTP 301
+all-ornothin.info -> HTTP 000
+jay-ride.online -> HTTP 000
+heavenlysparkmap.cloud -> HTTP 000
+ghost-protocol.online -> HTTP 000
 allornothin.com -> HTTP 200
 allornothin.netlify.app -> HTTP 200
