@@ -1,0 +1,7 @@
+TARGET HOST: https://allornothin.netlify.app
+NETLIFY A RECORD (@): 75.2.60.5
+NETLIFY CNAME (www): allornothin.netlify.app
+ACTIONS REQUIRED PER DOMAIN ON IONOS:
+1. Remove legacy 【entity-Squarespace¦canonical_name=Squarespace】 A/AAAA/CNAME records (198.49.23.144, 198.49.23.145, 198.185.159.144, 198.185.159.145) and parking IP 217.160.0.47.
+2. Set A (@) -> 75.2.60.5 and CNAME (www) -> allornothin.netlify.app.
+3. Keep allornothin.org as official organization root and all-ornothin.com as primary commercial root, with separate vector routing once 200 + SSL propagate.
