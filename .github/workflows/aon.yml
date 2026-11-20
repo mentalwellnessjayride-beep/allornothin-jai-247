@@ -1,0 +1,24 @@
+name: AON-24-7-JAI
+on:
+  schedule:
+    - cron: '0 15 * * *'   # 9am CT Daily site/email check
+    - cron: '0 15 * * 1,3,5' # 9am CT Mon/Wed/Fri Facebook
+    - cron: '0 1 * * 0'   # 7pm CT Sun Audit (01:00 UTC Mon = 7pm Sun CT)
+  workflow_dispatch:
+jobs:
+  jai:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: JAI Autonomous Run
+        run: |
+          chmod +x aon_fix_site_email.sh aon_fb_autonomous.sh
+          ./aon_fix_site_email.sh
+          ./aon_fb_autonomous.sh
+          echo "--- JAI STATUS ---"
+          cat JAI_AUTONOMOUS.txt
+          echo "--- OUTREACH LOG ---"
+          cat outreach_log_easy.csv
+          echo "--- NEXT MONEY ---"
+          echo "1x YES -> Invoice AON-988-001 \$500"
+          echo "Laptop closed = still running. This is cloud."
