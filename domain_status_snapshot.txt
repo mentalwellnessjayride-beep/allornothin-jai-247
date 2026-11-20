@@ -1,4 +1,4 @@
-=== DOMAIN STATUS SNAPSHOT FIXED (2026-11-20T06:02:16Z) ===
+=== CORRECTED 11 - NO allornothin.com - 2026-11-20T06:07:48Z ===
 all-ornothin.com -> HTTP 301
 allornothin.org -> HTTP 301
 allornothin.tech -> HTTP 000
@@ -9,5 +9,5 @@ all-ornothin.info -> HTTP 000
 jay-ride.online -> HTTP 000
 heavenlysparkmap.cloud -> HTTP 000
 ghost-protocol.online -> HTTP 000
-allornothin.com -> HTTP 200
+allornothin.website -> HTTP 308
 allornothin.netlify.app -> HTTP 200
